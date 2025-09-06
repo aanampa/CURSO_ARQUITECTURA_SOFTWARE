@@ -25,3 +25,9 @@ cd CURSO_ARQUITECTURA_SOFTWARE
 cd BibliotecaSOLID
 dotnet restore
 dotnet build
+
+
+
+
+
+
