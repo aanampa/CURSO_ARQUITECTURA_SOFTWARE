@@ -20,11 +20,6 @@ Este proyecto es una implementación de un sistema de biblioteca que demuestra l
 
 ### 1. Clonar el repositorio
 
-```bash
-git clone https://github.com/aanampa/CURSO_ARQUITECTURA_SOFTWARE.git
-cd CURSO_ARQUITECTURA_SOFTWARE
-
-```bash
 git clone https://github.com/aanampa/CURSO_ARQUITECTURA_SOFTWARE.git
 cd CURSO_ARQUITECTURA_SOFTWARE
 cd BibliotecaSOLID
