@@ -1,0 +1,19 @@
+# Archivos de compilación de .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.docstates
+
+# Archivos de VS Code
+.vscode/
+!.vscode/launch.json
+!.vscode/tasks.json
+
+# Archivos de salida
+*.dll
+*.exe
+*.pdb
+*.xml
